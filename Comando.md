@@ -5,3 +5,5 @@
 "git add" adicionar arquivos.
 "git commit" adicionar mensagem em arquivos ja adicionados.
 "git push" enviar arquivos commitados.
+
+teste
